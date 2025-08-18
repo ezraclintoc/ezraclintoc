@@ -34,9 +34,9 @@ I'm a student passionate about **Electrical Engineering**, programming, and buil
 ---
 
 ## 📫 Let's Connect
-- GitHub: [Ezra](https://github.com/ezraclintoc)  
-- YouTube: [My Channel](https://youtube.com/@EzraClintoc)  
-- LinkedIn / Portfolio: *(optional)*  
+- GitHub: [ezraclintoc](https://github.com/ezraclintoc)  
+- YouTube: [Ezra Clintoc](https://youtube.com/@EzraClintoc)  
+- Portfolio: ezraclintoc.github.io
 
 ---
 
