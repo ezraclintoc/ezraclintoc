@@ -1,48 +1,57 @@
 # Hey, I'm Ezra 👋
 
-I'm a student passionate about **Electrical Engineering**, programming, and building cool projects both digitally and physically.  
+Self taught developer and maker from the Austin area, studying at Austin Community College. I write mostly **Rust**, build hardware on the side, and I'm working toward becoming an **electrical engineer** or a **quantum computing researcher**.
 
----
+I'm currently **open to work** on freelance and internship opportunities.
 
-## ⚡ About Me
-- 🎓 Aspiring **Electrical Engineer**
-- 💻 I enjoy programming in **C++**, **Python**, **Go**, **GLSL**, and doing **Web Development**
-- 🖨️ 3D printing enthusiast, modeling my designs in **Onshape**
-- 🧩 Experimenting with **Raspberry Pi Picos** and **Raspberry Pi boards** for electronics projects
-- 🎥 I share some of my work on [YouTube](https://youtube.com/@EzraClintoc)
-- 🎨 Played around with **Blender** (simple animations/renders) and created a few **Houdini explosion simulations**
-- 🎬 Edited videos in **DaVinci Resolve**
+***
 
----
+## About Me
 
-## 🛠️ Technologies & Tools
-- **Languages**:  
-  C++ | Python | Go | GLSL | JavaScript/HTML/CSS
-- **Electronics**:  
-  Raspberry Pi Pico | Raspberry Pi | Circuit design basics | Soldering
-- **3D & Maker Tools**:  
-  3D Printing | Onshape (CAD) | Blender | Houdini | Prototyping
-- **Media Tools**:  
-  DaVinci Resolve (Video Editing) | Blender (Animation/Rendering)
-- **Other Tools**:  
-  Git/GitHub | Linux | VS Code
+* 🦀 Most fluent in **Rust**, with a focus on game dev (Bevy) and systems tools
+* ⚡ Learning PCB design in **KiCad** and building circuit projects
+* 🖨️ 7+ years of 3D printing, designing parts in **Onshape**
+* 🖥️ Running a self hosted homelab on **Proxmox** with Tailscale, Immich, Nextcloud, Home Assistant, and more
+* 🎥 Sharing devlogs on YouTube and editing in **DaVinci Resolve**
 
----
+***
 
-## 🚀 Current Goals
-- Deepen my knowledge in **Electrical Engineering fundamentals**
-- Build more projects that combine **hardware + software**
-- Improve my **3D modeling in Onshape, Blender, and Houdini**
-- Grow my **YouTube channel** by sharing projects and tutorials
-- Explore more **creative tech projects** (simulation, rendering, and interactive visuals)
+## Featured Projects
 
----
+**[bevy_ldtk_procgen](https://github.com/ezraclintoc/bevy_ldtk_procgen)**
+Procedural 2D dungeon generator for Bevy, built around LDtk levels.
 
-## 📫 Let's Connect
-- GitHub: [ezraclintoc](https://github.com/ezraclintoc)  
-- YouTube: [Ezra Clintoc](https://youtube.com/@EzraClintoc)  
-- Portfolio: [ezraclintoc.github.io](https://ezraclintoc.github.io)
+**[OxideMC](https://github.com/ezraclintoc/OxideMC)**
+Minecraft server manager written in Rust with a web UI dashboard. Devlog series on YouTube.
 
----
+**Open Source Contributions**
+* **steelMC**: contributing to a Rust Minecraft server implementation
+* **cliclick**: merged PRs to a Rust TUI crate
+
+***
+
+## Tech Stack
+
+**Languages:** Rust · Python · Go · C++ · TypeScript/React · Bash
+**Game Dev:** Bevy · LDtk · Vulkan (ash)
+**Hardware:** KiCad · Raspberry Pi / Pico · Soldering
+**Maker:** Onshape · Blender · 3D Printing
+**Infra:** NixOS · Proxmox · Tailscale · Docker · Git
+
+***
+
+## Current Goals
+
+* Grow **bevy_ldtk_procgen** into a go to crate for procedural dungeons
+* Keep contributing to open source Rust projects
+* Build more projects that combine **hardware and software**
+* Deepen my electrical engineering fundamentals and dive further into quantum computing
+
+***
+
+## Let's Connect
+
+* 🌐 Portfolio: [ezra.clintoc.me](https://ezra.clintoc.me)
+* 📺 YouTube: [@EzraClintoc](https://youtube.com/@EzraClintoc)
 
 💡 *"Learning by building, one project at a time."*
